@@ -1,0 +1,8 @@
+{
+  "name": "Talk Flow",
+  "description": "A WhatsApp-style chat application powered by Google Gemini, featuring multiple AI personas, real-time streaming responses, and a responsive mobile-first design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
